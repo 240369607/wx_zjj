@@ -1,4 +1,5 @@
 # !/bin/bash
+# qwe
 cd wechat3
 mvn spring-boot:stop
 cd ../subscribe
