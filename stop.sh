@@ -1,5 +1,5 @@
 # !/bin/bash
-cd weixin
+cd wechat3
 mvn spring-boot:stop
 cd ../subscribe
 mvn spring-boot:stop
